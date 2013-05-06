@@ -1,7 +1,7 @@
 wavplayer
 =========
 
-Simple Player of 'wav' file on Windows
+Simple Player of 'wav' file on Windows (written by C#)
 
 On Windows, starting with Vista, player of 'wav' files that can be used on the command line does not come.
 Therefore, I created this. This is a very simple player.
